@@ -4,3 +4,4 @@ icon_path: "logo.png"
 template_path: "template.tpl"
 versions:
   - sha: bb2564b8477210c671618b3818a4eeac433591de
+ 
