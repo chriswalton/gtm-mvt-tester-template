@@ -2,3 +2,5 @@ homepage: "https://www.netimpression.co.uk"
 documentation: "https://www.netimpression.co.uk/tools/free-ab-testing-script"
 icon_path: "logo.png"
 template_path: "MVT Tester.tpl"
+versions:
+  - sha: 9dfc32e8611624b2af1fcc36e90b57be1f08fbb6
